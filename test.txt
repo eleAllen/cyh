@@ -4,4 +4,4 @@ wo le yi
 Git tracks changes.
 1 2
 chuang jian fen zhi
-add feature1 and content
+add feature1 content
