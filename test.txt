@@ -6,3 +6,4 @@ Git tracks changes.
 chuang jian fen zhi
 add feature1 content
 test conflict
+cyh
