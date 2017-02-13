@@ -5,3 +5,4 @@ Git tracks changes.
 1 2
 chuang jian fen zhi
 add feature1 content
+test conflict
